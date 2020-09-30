@@ -1,5 +1,8 @@
 # Farm Game
 
+-  How to play Game
+      Demo video added to the "demo-video" folder, please download & watch it for more understanding. 
+
 **Design Pattern Used**
 
   -  Abstract Factory
